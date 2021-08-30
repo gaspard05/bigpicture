@@ -2,7 +2,7 @@
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
 now with branch protection on main!
-now with branch protection on main!
+Added By Gaspard
 
 [![Build status](https://dev.azure.com/TailwindTraders/Website/_apis/build/status/Website-CI)](https://dev.azure.com/TailwindTraders/Website/_build?definitionId=22)
 
