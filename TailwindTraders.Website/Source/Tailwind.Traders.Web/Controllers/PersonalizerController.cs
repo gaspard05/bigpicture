@@ -12,6 +12,7 @@ namespace Tailwind.Traders.Web.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    //Comment for branch policies testing
     public class PersonalizerController : Controller
     {
         private const string powerTools = "Power Tools";
